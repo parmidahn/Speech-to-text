@@ -5,7 +5,7 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 import os
 
-TOKEN = "8184434233:AAFxr6o-A1LjI3Eb40AmvUuCDX6e1ycO03s"
+TOKEN = "YourToken"
 
 # Default language is Persian
 DEFAULT_LANGUAGE = "fa-IR"
